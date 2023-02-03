@@ -1,0 +1,982 @@
+    1  sudo apt install curl
+    2  curl -sL http://netfree.link/dl/ubuntuCertInstallFree.sh | sodu -E bash -
+    3  sudo apt install curl
+    4  curl -sL http://netfree.link/dl/ubuntuCertInstallFree.sh | sodu -E bash -
+    5  curl -sL http://netfree.link/dl/ubuntuCertInstallNetFree.sh | sodu -E bash -
+    6  sudo apt install curl
+    7  curl -sL http://netfree.link/dl/ubuntuCertInstallNetFree.sh | sodu -E bash -
+    8  cd Desktop
+    9  cd lesson 1
+   10  cd lesson\ 1/
+   11  touch person.h person.c
+   12  gcc person.c
+   13  gcc person.c -E
+   14  gcc person.c -E > person.E
+   15  gcc person.c -E
+   16  touch empty
+   17  touch empty.c
+   18  gcc empty.c -E
+   19  gcc person.c -S
+   20  gedit person.c
+   21  htgrt
+   22  gcc person.c -E
+   23  gcc person.c -S
+   24  gcc person.c -C
+   25  gcc person.c -O
+   26  gcc person.c -c
+   27  gedit person.o
+   28  touch hello.c
+   29  gcc hello.c -c
+   30  gedit hello.o
+   31  sudo apt update
+   32  java -version
+   33  sudo apt install default-jre
+   34  gcc person.o hello.o
+   35  cd Desktop
+   36  cd lesson\ 1/
+   37  gcc person.o hello.o
+   38  nm a.out
+   39  nm person.c
+   40  nm person.o
+   41  ldd a.out
+   42  readelf -d a.out | grep NEEDED
+   43  whereis libc.so.6
+   44  file /lib/x86_64-linux-gnu/libc.so.6
+   45  /lib/x86_64-linux-gnu/libc.so.6: symbolic link to libc-2.27.so
+   46  file /lib/x86_64-linux-gnu/libc.so.6
+   47  /lib/x86_64-linux-gnu/libc.so.6: symbolic link to libc-2.27.so
+   48  file /lib/x86_64-linux-gnu/libc.so.6
+   49  file /lib/x86_64-linux-gnu/libc-2.27.so
+   50  nm /lib/x86_64-linux-gnu/libc-2.27.so
+   51  sudo apt-get install build-essential -y
+   52  sudo apt install curl
+   53  curl -sL http://netfree.link/dl/ubuntuCertInstallNetFree.sh | sodu -E bash -
+   54  curl -sL http://netfree.link/dl/ubuntuCertInstallNetFree.sh | sudo -E bash -
+   55  sudo apt-get install build-essential checkinstall
+   56  sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev     libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi-dev zlib1g-dev
+   57  cd /usr/src
+   58  sudo wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz
+   59  sudo tar xzf Python-3.7.0.tgz
+   60  cd Python-3.7.0
+   61  sudo ./configure --enable-optimizations
+   62  sudo make altinstall
+   63  python3.7 -V
+   64  cd~
+   65  cd ~
+   66  sudo apt install cmake
+   67  sudo apt-get install build-essential -y
+   68  cd Desktop
+   69  ls
+   70  mkdir MakefileTutorial
+   71  cd MakefileTutorial
+   72  gedit factorial.cpp inter.cpp main.cpp timer.cpp defs.h funcs.h &
+   73  g++ factorial.cpp inter.cpp main.cpp timer.cpp -o testfact
+   74  ls
+   75  ./testfact
+   76  56.56
+   77  ./testfact
+   78  gedit factorial.cpp inter.cpp main.cpp timer.cpp defs.h funcs.h &
+   79  g++ factorial.cpp inter.cpp main.cpp timer.cpp -o testfact
+   80  ./testfact
+   81  rm *.0
+   82  g++ factorial.cpp inter.cpp main.cpp timer.cpp -c
+   83  ls
+   84  rm *.o
+   85  gedit Makefile &
+   86  ./factorial
+   87  make
+   88  ./factorial
+   89  sudo apt-get update
+   90  sudo apt-get install git
+   91  git --version
+   92  git config --global user.name "ahuva20"
+   93  git config --global user.email "ab583250338@gmail.com"
+   94  sudo dnf install git
+   95  sudo apt-get update
+   96  sudo apt-get install libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev asciidoc xmlto docbook2x
+   97  git clone https://git.kernel.org/pub/scm/git/git.git
+   98  make all doc info prefix=/usr
+   99  cd Desktop
+  100  mkdir github
+  101  cd github
+  102  https://github.com/ahuva20/library.git
+  103  git clone https://github.com/ahuva20/library.git
+  104  cd library
+  105  ls-Al
+  106  ls-ll
+  107  ls-al
+  108  ls
+  109  cd Desktop github
+  110  cd Desktop,github
+  111  cd Desktop
+  112  cd github
+  113  cd library
+  114  ls
+  115  ping 8.8.8.8
+  116  python3.7 –version
+  117  cd
+  118  python3.7 –version
+  119  sudo apt update
+  120  sudo apt install software-properties-common
+  121  sudo add-apt-repository ppa:deadsnakes/ppa
+  122  sudo apt install python3.7
+  123  python3.7 –version
+  124  python –version
+  125  python --version
+  126  sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
+  127  sudo apt-get install ubuntu-make
+  128  umake ide pycharm
+  129  $ python3 --version
+  130  python3 --version
+  131  sudo apt-get install cmake
+  132  sudo apt update
+  133  sudo apt install build-essential
+  134  cd ~/Downloads
+  135  sudo tar xzf CLion-2019.2.2.tar.gz -C /opt
+  136  /opt/CLion-2019.2.2.tar.gz/bin/clion.sh
+  137  CLion-2019.2.2.tar.gz/bin/clion.sh
+  138  /opt/CLion-2019.2.2.tar.gz/bin/clion.sh
+  139  cd /opt/clion-2019.2.2/bin
+  140  ./CLion.sh
+  141  sh /opt/clion-*/bin/clion.sh
+  142  cd
+  143  sudo apt install openjdk-8-jdk
+  144  sudo apt install openjdk-8-jre-headless
+  145  umake ide pycharm
+  146  cd <pre>/home/linux/.local/share/umake/ide/pycharm/bin/pycharm.sh </pre>
+  147  cd /home/linux/.local/share/umake/ide/pycharm/bin/pycharm.sh
+  148  sudo apt-get install build-essential
+  149  sudo apt install snapd snapd-xdg-open
+  150  sudo snap install pycharm-community --classic
+  151  cd Desktop/
+  152  ll
+  153  ls -l
+  154  cd github/
+  155  lcd Desktop/
+  156  ls -l
+  157  gedit hello.c
+  158  gedit hello.c &
+  159  gedit hello.c
+  160  cd
+  161  dlfdlfk
+  162  gedit hello.c & 
+  163  clear
+  164  vim hello.c\
+  165  clear
+  166  vim hello.c
+  167  cat hello.c 
+  168  vim hello.c
+  169  clear
+  170  cat hello.c 
+  171  gcc hello.c 
+  172  vim hello.c
+  173  cc hello.c
+  174  vim hello.c
+  175  cc hello.c
+  176  vim hello.c
+  177  cc hello.c
+  178  vim hello.c
+  179  ll
+  180  clear
+  181  mkdir x
+  182  rm x
+  183  rm -rf  x
+  184  cd Desktop/
+  185  ll
+  186  mkdir c 
+  187  rm -rf  c 
+  188  mkdir c 
+  189  mkdir c1
+  190  clear
+  191  cd c 
+  192  ll
+  193  ls -l
+  194  cd
+  195  cd Desktop/c
+  196  touch x.c
+  197  ll 
+  198  rm x.c 
+  199  clear
+  200  cp ../../hello.c .
+  201  ls -l 
+  202  pwd 
+  203  cd
+  204  cp hello.c ~/Desktop/c/
+  205  cd Desktop/c
+  206  clear
+  207  ls -l
+  208  ll
+  209  clear
+  210  ll
+  211  gcc hello.c 
+  212  ll
+  213  ./a.out 
+  214  vim hello.c 
+  215  ./a.out 
+  216  gcc hello.c 
+  217  ./a.out 
+  218  clear
+  219  gcc hello.c  -o hello
+  220  ll
+  221  ./hello 
+  222  rm a.out 
+  223  gcc hello.c  -o hello
+  224  ./hello 
+  225  ll
+  226  ccd
+  227  cd
+  228  cd Desktop/
+  229  ll
+  230  cd c
+  231  ll
+  232  rm hello
+  233  ll
+  234  touch x y z z
+  235  ll
+  236  pwd 
+  237  clear
+  238  cd
+  239  cd Desktop/
+  240  rm -rf c
+  241  clear
+  242  mkdir c
+  243  rm -rf c
+  244  mkdir c
+  245  rm -rf c
+  246  mkdir c
+  247  cd c
+  248  cd ..
+  249  gedit 
+  250  gedit  hello.c
+  251  gedit  hello.c &
+  252  ps -aux 
+  253  ps -aux  | grep gedit
+  254  clear
+  255  vim hello.c
+  256  cp hello.c  c/
+  257  ll c
+  258  mv hello.c  c/
+  259  cd c
+  260  clear
+  261  ll
+  262  clear
+  263  ls -l
+  264  gcc hello.c 
+  265  gcc hello.c 
+  266  ls -l
+  267  clear
+  268  vim a.out 
+  269  gcc hello.c 
+  270  gcc hello.c -o hello
+  271  ls -l
+  272  ll
+  273  ls -l
+  274  clear
+  275  ls -l
+  276  cc hello.c 
+  277  rm a.out 
+  278  ls -l
+  279  clear
+  280  ll
+  281  touch a.out
+  282  lls -l
+  283  cleawr
+  284  clear
+  285  ls -l
+  286  rm a.out 
+  287  ls -l
+  288  gcc hello.c 
+  289  ls -l
+  290  clear
+  291  rm a.out 
+  292  ls -l
+  293  cc hello.c 
+  294  ll
+  295  clear
+  296  ls -l
+  297  ./a.out 
+  298  gcc hello.c -o margalit
+  299  ls -l
+  300  ./margalit 
+  301  echo hi 
+  302  cd Desktop/
+  303  cd ...
+  304  cd ..
+  305  clear
+  306  history 
+  307  clear
+  308  history 
+  309  history >/home/linux/Desktop/miri
+  310  vim Desktop/miri 
+  311  ps-aux | grep clion 
+  312  ps -aux | grep clion 
+  313  clear
+  314  ps -aux | grep clion 
+  315  sudo kill -9 4351
+  316  ps -aux | grep clion 
+  317  ps -aux | grep clion 
+  318  gedit 
+  319  exit
+  320  ps
+  321  ps -a
+  322  ps -al
+  323  .
+  324  ps
+  325  ls
+  326  mkdir sara
+  327  cd sara
+  328  touch file.c
+  329  code 
+  330  sudo snap install code
+  331  data
+  332  date
+  333  ls
+  334  ls -al
+  335  grep
+  336  ls /bin/
+  337  cd /bin
+  338  ls
+  339  cat ~/sara/file.c
+  340  cat ls
+  341  gcc file.c
+  342  gcc ~/sara/file.c -o f
+  343  ls
+  344  cd
+  345  cd sara
+  346  ls
+  347  /bin/ls
+  348  date
+  349  /date
+  350  /bin/date
+  351  gcc file.c -o f
+  352  ls
+  353  ./f
+  354  gcc file.c -o f
+  355  ./f
+  356  gcc file.c -o f
+  357  ./f
+  358  gcc file.c -o f
+  359  ./f
+  360  ls -al
+  361  ./f
+  362  gcc file.c -o f
+  363  ./f
+  364  gcc file.c -o f
+  365  ./f
+  366  gcc file.c -o f
+  367  ./f
+  368  gcc file.c -o f
+  369  ./f
+  370  gcc file.c -o f
+  371  ./f
+  372  gcc file.c -o f
+  373  ./f
+  374  gcc file.c -o f
+  375  ./f
+  376  gcc file.c -o f
+  377  ./f
+  378  ps
+  379  ps -al
+  380  pstree
+  381  ps -al
+  382  ./f
+  383  gcc file.c -o f
+  384  ./f
+  385  gcc file.c -o f
+  386  cd sara
+  387  gcc file.c -o f
+  388  cd sara
+  389  ./f
+  390  cd sara
+  391  gcc file.c -o f
+  392  ./f
+  393  ps
+  394  ps -al
+  395  ps
+  396  ps -al
+  397  cd sara
+  398  gcc file.c -o f
+  399  ./f
+  400  man grep
+  401  man 7 signal
+  402  ls
+  403  cd sara
+  404  ls
+  405  cat file.c
+  406  touch signal.c
+  407  gcc signal.c -o s
+  408  ./s
+  409  gcc signal.c -o s
+  410  ./s
+  411  ps
+  412  ./s
+  413  ps
+  414  ./s &
+  415  psps
+  416  ps
+  417  kill 3624
+  418  ps
+  419  ./s
+  420  ./s &
+  421  ps
+  422  fg
+  423  ps
+  424  kill 3655
+  425  ps
+  426  ./s
+  427  bg
+  428  fg
+  429  man 7 signal
+  430  mkdir sara
+  431  cd sara
+  432  gcc thread1.c -o t -pthread
+  433  ./t
+  434  gcc thread1.c -o t -pthread
+  435  ./t
+  436  gcc thread1.c -o t -pthread
+  437  ./t
+  438  gcc thread1.c -o t -pthread
+  439  ./t
+  440  gcc thread1.c -o t -pthread
+  441  ./t
+  442  gcc thread1.c -o t -pthread
+  443  ./t
+  444  gcc thread1.c -o t -pthread
+  445  ./t
+  446  PATH
+  447  $PATH
+  448  pwd
+  449  $PATH
+  450  cd Desktop/
+  451  ls -l
+  452  ll
+  453  ls -l 
+  454  ls -l | grep miri
+  455  clear
+  456  ls -l | grep miri
+  457  ll
+  458  ls -l | grep c
+  459  find . -name c
+  460  clear
+  461  find . -name c
+  462  ls -l | grep c
+  463  ls -l | grep miri
+  464  clear
+  465  ls -l | grep miri
+  466  chmod +x miri 
+  467  ls -l | grep miri
+  468  chmod -x miri 
+  469  ls -l | grep miri
+  470  chmod 777 miri 
+  471  ls -l | grep miri
+  472  man ls
+  473  apropos ls
+  474  apropos mkdir
+  475  apropos miri
+  476  clear
+  477  ll
+  478  mv blimi blimi1 
+  479  ls -l
+  480  mv blimi1 /c
+  481  mv blimi1 c/
+  482  cd c
+  483  ls -l
+  484  rm blimi1 
+  485  cd .. 
+  486  rm c
+  487  mkdir sari 
+  488  cd sar
+  489  cd sari/
+  490  mkdir sari
+  491  mkdir sari1
+  492  touch x
+  493  touch x1
+  494  cd .. 
+  495  rm sari/
+  496  cd sari/
+  497  ll
+  498  cd .. 
+  499  rm sari/
+  500  rm -rf sari/
+  501  mkdir  sari
+  502  rmdir sari/
+  503  mkdir  sari
+  504  cd sari/
+  505  touch x 
+  506  cd .. 
+  507  rmdir sari/
+  508  rm sari 
+  509  rm -r sari 
+  510  rm -rf sari 
+  511  ls -l
+  512  vim x.py
+  513  chmod +x x.py 
+  514  ./x.py 
+  515  vim x.py 
+  516  ./x.py 
+  517  python
+  518  man find
+  519  find . -name mi*
+  520  find . -name b*
+  521  cp blimi2 blimi1
+  522  cp blimi2 blimi3
+  523  find . -name b*
+  524  find . -name "b*"
+  525  find . -name b*
+  526  find . -name m*
+  527  find . -name miri
+  528  clear
+  529  find . -name miri
+  530  find . -name b
+  531  find . -name *b*
+  532  find . -name "*b*"
+  533  find . -name "*blimi*"
+  534  find . -name "*bli*
+  535  find . -name "*bli*"
+  536  clear
+  537  find . -name "*bli*"
+  538  cat miri 
+  539  less miri 
+  540  less more
+  541  more miri 
+  542  vim blimi3
+  543  grep -irn sudo 
+  544  :
+  545  cd Desktop/
+  546  ll
+  547  cd 2
+  548  ll
+  549  cd cmake-build-debug/
+  550  ll
+  551  cd ..
+  552  cd 2/cmake-build-debug/
+  553  ll
+  554  ln -s CMakeCache.txt  ~/Desktop/
+  555  cd 
+  556  ll
+  557  clear 
+  558  ll 
+  559  cd Desktop/
+  560  ll CMakeCache.txt 
+  561  cd .. 
+  562  cd Desktop/
+  563  mkdir x
+  564  cd x
+  565  mkdir y
+  566  cd y
+  567  mkdir z
+  568  cd z 
+  569  touch x y w
+  570  ll
+  571  cd .. 
+  572  pwd
+  573  ln -s x/y/z z
+  574  cd x/y/z
+  575  ll
+  576  cd ..
+  577  cd .. 
+  578  cd ..
+  579  cd z
+  580  ll
+  581  pico
+  582  gedit 
+  583  dir
+  584  ll
+  585  ls -l
+  586  unrm
+  587  ll
+  588  vim w
+  589  clear
+  590  cd 
+  591  cd Desktop/
+  592  ls -l
+  593  ls -l >f1
+  594  cat f1 
+  595  :q!
+  596  clera
+  597  clear
+  598  ps
+  599  gedit
+  600  gedit & 
+  601  ps 
+  602  ps -aux | grep gedit
+  603  clear
+  604  gedit 
+  605  ps
+  606  clear
+  607  gedit 
+  608  ps
+  609  kill -9 2673
+  610  jobs
+  611  clear
+  612  jobs
+  613  gedit &
+  614  gedit 
+  615  firefox 
+  616  jobs
+  617  fg %2
+  618  jobs
+  619  fg %1
+  620  du -a
+  621  du -h
+  622  mkdir sync
+  623  ls
+  624  code .
+  625  gcc mutex_ex.c -o m
+  626  gcc mutex_ex.c -o m -pthread
+  627  ls
+  628  cd sync/
+  629  gcc mutex_ex.c -o m -pthread
+  630  ./m
+  631  gcc mutex_ex.c -o m -pthread
+  632  ./m
+  633  gcc mutex_ex.c -o m -pthread
+  634  ./m
+  635  gcc mutex_ex.c -o m -pthread
+  636  ./m
+  637  gcc mutex_ex.c -o m -pthread
+  638  ./m
+  639  gcc mutex_ex.c -o m -pthread
+  640  ./m
+  641  gcc mutex_ex.c -o m -pthread
+  642  ./m
+  643  gcc mutex_ex.c -o m -pthread
+  644  ./m
+  645  gcc mutex_ex.c -o m -pthread
+  646  ./m
+  647  gcc mutex_ex.c -o m -pthread
+  648  ./m
+  649  gcc mutex_ex.c -o m -pthread
+  650  ./m
+  651  gcc mutex_ex.c -o m -pthread
+  652  ./m
+  653  gcc mutex_ex.c -o m -pthread
+  654  ./m
+  655  gcc mutex_ex.c -o m -pthread
+  656  ./m
+  657  gcc mutex_ex.c -o m -pthread
+  658  ./m
+  659  gcc p_c_monitor.c -o m -pthread
+  660  ./m
+  661  find . -name *.sh
+  662  find . -name *string.sh*
+  663  find . -name *string*
+  664  cd Desktop/
+  665  touch ex.sh 
+  666  vim ex.sh 
+  667  ll
+  668  vim ex.sh 
+  669  ll ex.sh 
+  670  chmod +x ex.sh 
+  671  ll ex.sh 
+  672  ./ex.sh 
+  673  vim ex.sh 
+  674  ./ex.sh 
+  675  vim ex.sh 
+  676  ./ex.sh 
+  677  vim ex.sh 
+  678  ./ex.sh 
+  679  ps 
+  680  echo $BASH
+  681  echo $HOME
+  682  echo $PWD
+  683  ./ex.sh 
+  684  vim ex.sh 
+  685  ./ex.sh 
+  686  vim ex.sh 
+  687  ./ex.sh 
+  688  vim ex.sh 
+  689  ./ex.sh 
+  690  vim ex.sh 
+  691  ./ex.sh 
+  692  vim ex.sh 
+  693  ./ex.sh 
+  694  vim ex.sh 
+  695  ./ex.sh 
+  696  vim ex.sh 
+  697  ./ex.sh 
+  698  vim ex.sh 
+  699  ./ex.sh 
+  700  vim ex.sh 
+  701  ./ex.sh  x y z 
+  702  vim ex.sh 
+  703  ./ex.sh  x y z 
+  704  vim ex.sh 
+  705  ./ex.sh  x y z 
+  706  vim ex.sh 
+  707  ./ex.sh  x y z 
+  708  vim ex.sh 
+  709  ./ex.sh  x y z 
+  710  vim ex.sh 
+  711  ./ex.sh  x y z 
+  712  vim ex.sh 
+  713  ./ex.sh  x y z 
+  714  vim ex.sh 
+  715  ./ex.sh 
+  716  vim ex.sh 
+  717  ./ex.sh 
+  718  ll
+  719  touch x
+  720  ./ex.sh 
+  721  cd x/
+  722  cd .. 
+  723  touch xxx
+  724  ./ex.sh 
+  725  cat xxx
+  726  ./ex.sh 
+  727  cat xxx
+  728  chmod  -x xxx
+  729  chmod  -w xxx
+  730  ./ex.sh 
+  731  ls
+  732  gcc hello.c
+  733  gcc hello.c -S
+  734  gcc hello.c -o hello
+  735  gdb
+  736  gdb --args hello
+  737  touch hello2.c
+  738  gedit hello2.c
+  739  gcc hello.c
+  740  gcc hello.c -a a
+  741  gcc hello.c -o a
+  742  gcc hello2.c -o b
+  743  ./a
+  744  ./b
+  745  ./a | ./b
+  746  a
+  747  cat sara/shell.c 
+  748  cat sara/shell.c  | grep arglist
+  749  cat sara/shell.c  | grep arglist | sort
+  750  ls 
+  751  ls | sort
+  752  ls | grep hello
+  753  ls -l
+  754  ln -s sara/sync
+  755  ls
+  756  ls -l
+  757  mkfifo myfifo
+  758  ls -l
+  759  ipcs
+  760  gcc hello2.c -o h
+  761  ./h
+  762  gcc hello2.c -o h
+  763  ./h
+  764  ./h -ab iji jhj ijoh khkh 
+  765  tty
+  766  cat 
+  767  cat /dev/pts/0
+  768  tty1
+  769  tty
+  770  cat /dev/pts/0
+  771  ls -al
+  772  ls -a
+  773  ls sara
+  774  cd sara
+  775  ls
+  776  ls ..
+  777  ls -a
+  778  cd ..
+  779  ls
+  780  cd sara
+  781  ls ..
+  782  firefox 
+  783  history 
+  784  tty
+  785  echo hello
+  786  ls
+  787  tcsh
+  788  ls | grep file
+  789  echo hello > file.txt
+  790  ls | grep file
+  791  cat file.txt
+  792  echo hello > /dev/pts/0
+  793  echo hello > /dev/pts/1
+  794  touch file
+  795  cd ..
+  796  l
+  797  ls -l
+  798  ifconfig
+  799  cd ~/Desktop/
+  800  ls
+  801  firefox 
+  802  find . -name sara
+  803  echo $x
+  804  cd ~
+  805  cd Desktop
+  806  clear
+  807  cd Dek
+  808  pwd
+  809  cd ..
+  810  cd Desktop/margalit/
+  811  ls 
+  812  cd 
+  813  pwd
+  814  echo $PATH
+  815  x=3
+  816  echo x
+  817  echo $x
+  818  cd Desktop/
+  819  clear
+  820  mkdir chedva
+  821  rm chedva/
+  822  rm -rf chedva/
+  823  mkdir chedva
+  824  cd chedva/
+  825  pwd
+  826  touch x
+  827  echo dasi
+  828  echo dasi>x
+  829  echo $x
+  830  echo x
+  831  vim x
+  832  echo sari>x 
+  833  vim x
+  834  echo yael>y 
+  835  ls -l
+  836  ls 
+  837  ls -l
+  838  vim x
+  839  ls
+  840  vim y
+  841  echo dasi>>y 
+  842  vim y
+  843  pwd
+  844  cd Desktop/
+  845  pwd
+  846  echo $PATH
+  847  pytho 
+  848  python 
+  849  clear
+  850  ptho
+  851  clear
+  852  x=3
+  853  echo x
+  854  echo $x
+  855  echo $PATH
+  856  mkdir libi 
+  857  cd De
+  858  cd 
+  859  cd Desktop/
+  860  cd libi/
+  861  cd 
+  862  cd Desktop/libi/
+  863  clear
+  864  touch chavi 
+  865  echo 
+  866  echo x
+  867  echo $x
+  868  echo tzira>pessi 
+  869  vim pessi 
+  870  touch pessi 
+  871  ll
+  872  vim pessi 
+  873  ls
+  874  clear
+  875  ls
+  876  ls -l
+  877  ls -la
+  878  echo chavi>pessi 
+  879  vim pessi 
+  880  echo batsheva>>pessi 
+  881  vim pessi 
+  882  echo batsheva is a good>>pessi 
+  883  vim pessi 
+  884  ll
+  885  cd .. 
+  886  ls 
+  887  vim shoshi 
+  888  clear
+  889  vim shoshi 
+  890  ls -l
+  891  vim shoshi 
+  892  ls -l
+  893  lk 
+  894  cd chedva/
+  895  ls -l
+  896  ll
+  897  ls -l
+  898  ls -la 
+  899  clear
+  900  ls -l
+  901  touch friend1 
+  902  cd ..
+  903  cd ~
+  904  cd Desktop/
+  905  mkdir adina 
+  906  cd adina/
+  907  touch friend1 
+  908  touch friend2 friend3
+  909  ls -l
+  910  clear
+  911  ls -l
+  912  cp friend3 friend4 
+  913  ls -l
+  914  cp friend3 friend5
+  915  ls -l
+  916  clear
+  917  pwd
+  918  cd ..
+  919  ls -l
+  920  cat xxx
+  921  clear
+  922  cd ~
+  923  cd Desktop/adina/
+  924  cp friend1  ~/Desktop/libi/
+  925  cd ..
+  926  cd libi/
+  927  ll
+  928  cd .. 
+  929  cd libi/
+  930  rm friend1 
+  931  cd .. 
+  932  cd adina/
+  933  cp friend1 li
+  934  cp friend1 ../libi/
+  935  cd 
+  936  cp ~/Desktop/shoshi ~/Desktop/adina/
+  937  ls Desktop/adina/
+  938  cd Desktop/
+  939  cp -r libi/ adina/ 
+  940  cd adina/
+  941  ls -l
+  942  cd libi/
+  943  ls -l
+  944  cd .. 
+  945  clear
+  946  ls -l
+  947  rm shoshi 
+  948  clear
+  949  ls -l
+  950  cd .. 
+  951  cp ~/Desktop/adina/li . 
+  952  rm li
+  953  cp ~/Desktop/adina/li . 
+  954  cd adina/
+  955  ls -l
+  956  rm li
+  957  rm friend1 friend2 friend3 
+  958  ls -l
+  959  mv friend4  friend1 
+  960  ls -l
+  961* 
+  962  ls -l
+  963  ls ../chedva/
+  964  clear
+  965  pwd
+  966  cd ..
+  967  dir adina/
+  968  rmdir adina/
+  969  mkdir avigail
+  970  rmdir avigail/
+  971  mkdir avigail
+  972  touch yehudit
+  973  mv yehudit avigail/
+  974  rmdir avigail/
+  975  rm -rf avigail/
+  976  unrm 
+  977  xx
+  978  x
+  979  history >commands 
+  980  vim commands 
+  981  history 
+  982  history >commands 

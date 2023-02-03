@@ -1,0 +1,29 @@
+# How to Comment Multiple Lines
+#!/bin/bash
+: '
+script
+write
+hi
+'
+
+echo hi
+----------------------------------------------------------
+# How to install finger command
+sudo yum install finger
+----------------------------------------------------------
+
+# exemple for cut command 
+
+$ cat state.txt
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chhattisgarh
+
+$ cut -b 1,2,3 state.txt
+And
+Aru
+Ass
+Bih
+Chh
